@@ -1,0 +1,19 @@
+Analyze the attached image of a jersey and return a structured JSON object with the following fields:
+{
+  "Description": "..."
+}
+
+Custom The Jersey Desciption in one coherent text by mentioning
+- the colors and patterns
+- the collar shape
+- the team crest ONLY IN CASE it is a special edition, deviating from the original colors/shape, otherwise, don't mention
+- stripes or similar on the shoulders if available
+- the sponsors on the front part (not sleeves)
+- number of stars above the crest indicating past successes
+- For Desciption jersey in one coherent text by mentioning 
+
+Do not mention
+- the sleeves
+- any patches
+
+- Do NOT wrap your output in markdown code blocks or backticks.
