@@ -26,3 +26,13 @@ jersey_analyzer/
 ├─ not_process/ # Input images
 ├─ success/ # Processed successfully
 └─ error/ # Parsing/AI issues
+
+
+---
+
+## 🍏 Setup (macOS)
+
+### 1) Install Homebrew
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
